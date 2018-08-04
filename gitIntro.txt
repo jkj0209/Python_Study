@@ -1,0 +1,9 @@
+git bash로 커밋하는방법! (그만좀 까먹자!
+
+1. 수정할 파일을 add 한다.
+git add *.ipynb
+2. 이어서 commit을 진행한다.
+git commit -m '[18.08.04]commit comment'
+3. 커밋완료후 푸시로 github에 등록!
+git push
+* 아이디랑 비번이 등록되어있어야만 commit이 가능한다
